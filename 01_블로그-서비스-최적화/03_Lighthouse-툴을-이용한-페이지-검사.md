@@ -1,7 +1,7 @@
 # 03. Lighthouse 툴을 이용한 페이지 검사
 
 
-## 3.1 Lighthouse로 검사하기
+## 📌 3.1 Lighthouse로 검사하기
 
 <img width="600" alt="Untitled" src="https://github.com/DEVOCEAN-YOUNG-FPOG/FPOG/assets/70098708/264e16b9-599c-482f-b9b0-0146bfedb260">
 
@@ -21,7 +21,7 @@
     - `SEO` : 얼마나 잘 크롤링되고 검색 결과에 표시되는지 분석한다.
     - `Progressive Web App` : PWA와 관련된 문제를 분석한다.
 
-## 3.2 Lighthouse 검사 결과
+## 📌 3.2 Lighthouse 검사 결과
 
 
 ### 검사 결과
